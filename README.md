@@ -4,12 +4,14 @@ Bem vindo a IE301! Para começar as atividades de programação complete os segu
 
 ## Informações sobre o curso
 
-Informações sobre o curso (projeto final, referências bibliográficas, etc.) podem ser encontrados nos slides da primeira aula.
+Informações sobre o curso (projeto final, referências bibliográficas, etc.) podem ser encontrados nos slides da primeira aula:
+
+* [Slides da primeira aula.](https://github.com/fcalmon/DIA-19/raw/master/Aulas/Lecture01.pdf)
 
 ## Baixe e instale o `Anaconda Python` 
 
 A melhor forma de instalar e manter Python no seu computador é utilizando a distribuição `Anaconda Python`. Essa distribuição já inclui as bibliotecas principais para ciência de dados: 
-* [Baixe aqui o Anaconda Python](https://www.anaconda.com/distribution/).
+* [Baixe aqui o Anaconda Python](https://github.com/fcalmon/DIA-19/raw/master/Aulas/Lecture01.pdf).
 
 **Instale a versão Python 3.7.**
 
