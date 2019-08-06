@@ -19,7 +19,7 @@ Tutoriais sobre o Jupyter pode ser encontrado nos seguintes sites:
 
 * [https://www.dataquest.io/blog/jupyter-notebook-tutorial/](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 * [https://realpython.com/jupyter-notebook-introduction/](https://realpython.com/jupyter-notebook-introduction/)
-* [https://jupyter.org/documentation])https://jupyter.org/documentation_
+* [https://jupyter.org/documentation](https://jupyter.org/documentation)
 
 Você pode iniciar um notebook no seu computador digitando `jupyter notebook` ou `jupyter lab` no seu terminal. Isso ativará o servidor do notebook e abrirá o seu browser. Recomendamos o uso do comando `jupyter lab`. 
 
