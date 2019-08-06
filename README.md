@@ -17,7 +17,7 @@ A melhor forma de instalar e manter Python no seu computador é utilizando a dis
 
 ## Familiarize-se com o ambiente de `Jupyter Notebooks`.
 
-Tutoriais sobre o Jupyter pode ser encontrado nos seguintes sites:
+Tutoriais sobre o Jupyter podem ser encontrado nos seguintes sites:
 
 * [https://www.dataquest.io/blog/jupyter-notebook-tutorial/](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 * [https://realpython.com/jupyter-notebook-introduction/](https://realpython.com/jupyter-notebook-introduction/)
