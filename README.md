@@ -25,4 +25,7 @@ Tutoriais sobre o Jupyter podem ser encontrados nos seguintes sites:
 
 Você pode iniciar um notebook no seu computador digitando `jupyter notebook` ou `jupyter lab` no seu terminal. Isso ativará o servidor do notebook e abrirá o seu browser. Recomendamos o uso do comando `jupyter lab`. 
 
+## Exercício 01
+
+O `jupyter notebook` do primeiro exercíco está disponível [nesse link].(https://github.com/fcalmon/DIA-19/tree/master/PSet01). Clone o repositório PSet01 no seu computador. Note que você precisará baixar os dados do ENEM no site do INEP -- o link está disponível no notebook [`ProblemSetI.ipynb`](https://github.com/fcalmon/DIA-19/blob/master/PSet01/code/ProblemSetI.ipynb) (dentro da pasta `code`).
 
